@@ -1,0 +1,13 @@
+E:\workspace\Projetando\Patterns\bin\Debug\netcoreapp3.1\Patterns.exe
+E:\workspace\Projetando\Patterns\bin\Debug\netcoreapp3.1\Patterns.deps.json
+E:\workspace\Projetando\Patterns\bin\Debug\netcoreapp3.1\Patterns.runtimeconfig.json
+E:\workspace\Projetando\Patterns\bin\Debug\netcoreapp3.1\Patterns.runtimeconfig.dev.json
+E:\workspace\Projetando\Patterns\bin\Debug\netcoreapp3.1\Patterns.dll
+E:\workspace\Projetando\Patterns\bin\Debug\netcoreapp3.1\Patterns.pdb
+E:\workspace\Projetando\Patterns\obj\Debug\netcoreapp3.1\Patterns.csprojAssemblyReference.cache
+E:\workspace\Projetando\Patterns\obj\Debug\netcoreapp3.1\Patterns.AssemblyInfoInputs.cache
+E:\workspace\Projetando\Patterns\obj\Debug\netcoreapp3.1\Patterns.AssemblyInfo.cs
+E:\workspace\Projetando\Patterns\obj\Debug\netcoreapp3.1\Patterns.csproj.CoreCompileInputs.cache
+E:\workspace\Projetando\Patterns\obj\Debug\netcoreapp3.1\Patterns.dll
+E:\workspace\Projetando\Patterns\obj\Debug\netcoreapp3.1\Patterns.pdb
+E:\workspace\Projetando\Patterns\obj\Debug\netcoreapp3.1\Patterns.genruntimeconfig.cache
